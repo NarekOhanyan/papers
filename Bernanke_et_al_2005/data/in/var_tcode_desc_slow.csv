@@ -1,0 +1,157 @@
+FMD,BBE,LB,CATRGORY_FMD,CATEGORY_BBE_LB,id_FMD,id_BBE,id_LB,DRI_McGraw,FRED,TCODE_MY,TCODE_MY_BBE,TCODE_MY_FMD,TCODE_FMD,TCODE_BBE,TCODE_LB,SLOW_BBE,SLOW_LB,DESCRIPTION_FRED_LB
+1,1,1,Output and income,Real output and income,7,1,1,IPP,IPFPNSS,5,5,5,5,5,5,1,1,IP: Final Products and Nonindustrial Supplies
+1,1,1,Output and income,Real output and income,8,2,2,IPF,IPFINAL,5,5,5,5,5,5,1,1,IP: Final Products (Market Group)
+1,1,1,Output and income,Real output and income,9,3,3,IPC,IPCONGD,5,5,5,5,5,5,1,1,IP: Consumer Goods
+1,1,1,Output and income,Real output and income,10,4,4,IPCD,IPDCONGD,5,5,5,5,5,5,1,1,IP: Durable Consumer Goods
+1,1,1,Output and income,Real output and income,11,5,5,IPCN,IPNCONGD,5,5,5,5,5,5,1,1,IP: Nondurable Consumer Goods
+1,1,1,Output and income,Real output and income,12,6,6,IPE,IPBUSEQ,5,5,5,5,5,5,1,1,IP: Business Equipment
+,1,,,Real output and income,,7,,IPI,,5,5,5,,5,,1,,IP: Intermediate products
+1,1,1,Output and income,Real output and income,13,8,7,IPM,IPMAT,5,5,5,5,5,5,1,1,IP: Materials
+1,1,1,Output and income,Real output and income,14,9,8,IPMD,IPDMAT,5,5,5,5,5,5,1,1,IP: Durable Materials
+1,1,1,Output and income,Real output and income,15,10,9,IPMND,IPNMAT,5,5,5,5,5,5,1,1,IP: Nondurable Materials
+1,1,1,Output and income,Real output and income,16,11,10,IPMFG,IPMANSICS,5,5,5,5,5,5,1,1,IP: Manufacturing (SIC)
+,1,,,Real output and income,,12,,IPD,,5,5,5,,5,,1,,IP: Durable manufacturing
+,1,,,Real output and income,,13,,IPN,,5,5,5,,5,,1,,IP: Nondurable manufacturing
+,1,1,,Real output and income,,14,11,IPMIN,IPMINE,5,5,5,,5,5,1,1,IP: Mining
+1,1,1,Output and income,Real output and income,17,15,12,IPUT,IPB51222S,5,5,5,5,5,5,1,1,IP: Residential utilities
+1,1,1,Output and income,Real output and income,6,16,13,IP,INDPRO,5,5,5,5,5,5,1,1,IP: Index
+1,1,1,Output and income,Real output and income,20,17,14,IPXMCA,CUMFNS,2,1,2,2,1,1,1,1,Capacity Utilization: Manufacturing (SIC)
+1,1,1,"Consumption, orders, and inventories",Real output and income,60,18,15,PMI,NAPM,1,1,1,1,1,1,1,1,ISM Manufacturing: PMI Composite Index
+1,1,1,Output and income,Real output and income,19,19,16,PMP,NAPMPI,1,1,1,1,1,1,1,1,ISM Manufacturing: Production Index
+1,1,1,Output and income,Real output and income,1,20,17,GMPYQ,RPI,5,5,5,5,5,5,1,1,Real personal income
+1,1,1,Output and income,Real output and income,2,21,18,GMYXPQ,W875RX1,5,5,5,5,5,5,1,1,Real personal income excluding current transfer receipts
+1,,,Output and income,,18,,,,IPFUELS,5,5,5,5,,,,,IP: Fuels
+1,1,1,Labor market,Employment and hours,21,22,19,LHEL,HWI,2,5,2,2,5,5,1,1,Help-Wanted Index for United States
+1,1,1,Labor market,Employment and hours,22,23,20,LHELX,HWIURATIO,2,4,2,2,4,4,1,1,Ratio of Help Wanted / No. Unemployed
+1,1,1,Labor market,Employment and hours,23,24,21,LHEM,CLF16OV,5,5,5,5,5,5,1,1,Civilian Labor Force
+1,1,1,Labor market,Employment and hours,24,25,22,LHNAG,CE16OV,5,5,5,5,5,5,1,1,Civilian Employment Level
+1,1,1,Labor market,Employment and hours,25,26,23,LHUR,UNRATE,2,1,2,2,1,1,1,1,Civilian Unemployment Rate
+1,1,1,Labor market,Employment and hours,26,27,24,LHU680,UEMPMEAN,2,1,2,2,1,1,1,1,Average (Mean) Duration of Unemployment
+1,1,1,Labor market,Employment and hours,27,28,25,LHU5,UEMPLT5,5,1,5,5,1,1,1,1,Civilians Unemployed for Less Than 5 Weeks
+1,1,1,Labor market,Employment and hours,28,29,26,LHU14,UEMP5TO14,5,1,5,5,1,1,1,1,Civilians Unemployed for 5 to 14 Weeks
+1,1,1,Labor market,Employment and hours,29,30,27,LHU15,UEMP15OV,5,1,5,5,1,1,1,1,Civilians Unemployed for 15 Weeks and Over
+1,1,1,Labor market,Employment and hours,30,31,28,LHU26,UEMP15T26,5,1,5,5,1,1,1,1,Civilians Unemployed for 15 to 26 Weeks
+1,,,Labor market,,31,,,,UEMP27OV,5,1,5,5,,,,,Civilians Unemployed for 27 Weeks and Over
+1,,,Labor market,,32,,,,CLAIMSx,5,1,5,5,,,,,Initial Claims
+1,1,1,Labor market,Employment and hours,33,32,29,LPNAG,PAYEMS,5,5,5,5,5,5,1,1,All Employees: Total Nonfarm Payrolls
+,1,1,,Employment and hours,,33,30,LP,CEU0500000001,5,5,5,,5,5,1,1,All Employees: Total Private
+1,1,1,Labor market,Employment and hours,34,34,31,LPGD,USGOOD,5,5,5,5,5,5,1,1,All Employees: Goods-Producing Industries
+1,1,1,Labor market,Employment and hours,35,35,32,LPMI,CES1021000001,5,5,5,5,5,5,1,1,All Employees: Mining and Logging: Mining
+1,1,1,Labor market,Employment and hours,36,36,33,LPCC,USCONS,5,5,5,5,5,5,1,1,All Employees: Construction
+1,1,1,Labor market,Employment and hours,37,37,34,LPEM,MANEMP,5,5,5,5,5,5,1,1,All Employees: Manufacturing
+1,1,1,Labor market,Employment and hours,38,38,35,LPED,DMANEMP,5,5,5,5,5,5,1,1,All Employees: Durable Goods
+1,1,1,Labor market,Employment and hours,39,39,36,LPEN,NDMANEMP,5,5,5,5,5,5,1,1,All Employees: Nondurable goods
+1,1,1,Labor market,Employment and hours,40,40,37,LPSP,SRVPRD,5,5,5,5,5,5,1,1,All Employees: Service-Providing Industries
+1,1,1,Labor market,Employment and hours,41,41,38,LPTU,USTPU,5,5,5,5,5,5,1,1,"All Employees: Trade, Transportation and Utilities"
+1,1,1,Labor market,Employment and hours,42,42,39,LPT,USWTRADE,5,5,5,5,5,5,1,1,All Employees: Wholesale Trade
+1,,,Labor market,,43,,,,USTRADE,5,5,5,5,,,,,All Employees: Retail Trade
+1,1,1,Labor market,Employment and hours,44,43,40,LPFR,USFIRE,5,5,5,5,5,5,1,1,All Employees: Financial Activities
+,1,1,,Employment and hours,,44,41,LPS,USSERV,5,5,5,,5,5,1,1,All Employees: Other Services
+1,1,1,Labor market,Employment and hours,45,45,42,LPGOV,USGOVT,5,5,5,5,5,5,1,1,All Employees: Government
+1,,,Labor market,,46,,,,CES0600000007,1,1,1,1,,,,,Average Weekly Hours : Goods-Producing
+1,1,1,Labor market,Employment and hours,48,46,43,LPHRM,AWHMAN,1,1,1,1,1,1,1,1,Average Weekly Hours : Manufacturing
+1,1,1,Labor market,Employment and hours,47,47,44,LPMOSA,AWOTMAN,2,1,2,2,1,1,1,1,Average Weekly Overtime Hours: Manufacturing
+1,1,1,Labor market,Employment and hours,49,48,45,PMEMP,NAPMEI,1,1,1,1,1,1,1,1,ISM Manufacturing: Employment Index
+1,1,1,"Consumption, orders, and inventories",Consumption,3,49,46,GMCQ,DPCERA3M086SBEA,5,5,5,5,5,5,1,1,Real personal consumption expenditures
+,1,1,,Consumption,,50,47,GMCDQ,DDURRA3M086SBEA,5,5,5,,5,5,1,1,Real personal consumption expenditures: Durable goods
+,1,1,,Consumption,,51,48,GMCNQ,DNDGRA3M086SBEA,5,5,5,,5,5,1,1,Real personal consumption expenditures: Nondurable goods
+,1,1,,Consumption,,52,49,GMCSQ,DSERRA3M086SBEA,5,5,5,,5,5,1,1,Real personal consumption expenditures: Services
+,1,,,Consumption,,53,,GMCANQ,,5,5,5,,5,,1,,Real personal consumption expenditures: New cars
+1,1,1,Housing,Housing starts and sales,50,54,50,HSFR,HOUST,4,4,4,4,4,4,,,Housing Starts: Total New Privately Owned
+1,1,1,Housing,Housing starts and sales,51,55,51,HSNE,HOUSTNE,4,4,4,4,4,4,,,Housing Starts: Northeast Census Region
+1,1,1,Housing,Housing starts and sales,52,56,52,HSMW,HOUSTMW,4,4,4,4,4,4,,,Housing Starts: Midwest Census Region
+1,1,1,Housing,Housing starts and sales,53,57,53,HSSOU,HOUSTS,4,4,4,4,4,4,,,Housing Starts: South Census Region
+1,1,1,Housing,Housing starts and sales,54,58,54,HSWST,HOUSTW,4,4,4,4,4,4,,,Housing Starts: West Census Region
+,1,,,Housing starts and sales,,59,,HSBR,,4,4,4,,4,,,,Housing Authorized: Total New Private Housing
+,1,,,Housing starts and sales,,60,,HMOB,,4,4,4,,4,,,,Mobile Homes: Manufacturers' shipments
+1,,,Housing,,55,,,,PERMIT,4,4,4,4,,,,,New Private Housing Permits (SAAR)
+1,,,Housing,,56,,,,PERMITNE,4,4,4,4,,,,,"New Private Housing Permits, Northeast (SAAR)"
+1,,,Housing,,57,,,,PERMITMW,4,4,4,4,,,,,"New Private Housing Permits, Midwest (SAAR)"
+1,,,Housing,,58,,,,PERMITS,4,4,4,4,,,,,"New Private Housing Permits, South (SAAR)"
+1,,,Housing,,59,,,,PERMITW,4,4,4,4,,,,,"New Private Housing Permits, West (SAAR)"
+1,1,1,"Consumption, orders, and inventories","Real inventories, orders and unfilled orders",63,61,55,PMNV,NAPMII,1,1,1,1,1,1,,,ISM Manufacturing: Inventories Index
+1,1,1,"Consumption, orders, and inventories","Real inventories, orders and unfilled orders",61,62,56,PMNO,NAPMNOI,1,1,1,1,1,1,,,ISM Manufacturing: New Orders Index
+1,1,1,"Consumption, orders, and inventories","Real inventories, orders and unfilled orders",62,63,57,PMDEL,NAPMSDI,1,1,1,1,1,1,,,ISM Manufacturing: Supplier Deliveries Index
+1,,,"Consumption, orders, and inventories",,4,,,,CMRMTSPLx,5,5,5,5,,,,,Real Manu. and Trade Industries Sales
+1,,,"Consumption, orders, and inventories",,5,,,,RETAILx,5,5,5,5,,,,,Retail and Food Services Sales
+1,,,"Consumption, orders, and inventories",,64,,,,ACOGNO,5,5,5,5,,,,,New Orders for Consumer Goods
+1,,,"Consumption, orders, and inventories",,65,,,,AMDMNOx,5,5,5,5,,,,,New Orders for Durable Goods
+1,,,"Consumption, orders, and inventories",,66,,,,ANDENOx,5,5,5,5,,,,,New Orders for Nondefense Capital Goods
+1,,,"Consumption, orders, and inventories",,67,,,,AMDMUOx,5,5,5,5,,,,,Unfilled Orders for Durable Goods
+1,,,"Consumption, orders, and inventories",,68,,,,BUSINVx,5,5,5,5,,,,,Total Business Inventories
+1,,,"Consumption, orders, and inventories",,69,,,,ISRATIOx,2,2,2,2,,,,,Total Business: Inventories to Sales Ratio
+1,,,"Consumption, orders, and inventories",,130,,,,UMCSENTx,2,2,2,2,,,,,Consumer Sentiment Index
+,1,1,,"Real inventories, orders and unfilled orders",,64,58,MOCMQ,A0M008,5,5,5,,5,5,,,Mfrs' new orders consumer goods and materials
+,1,1,,"Real inventories, orders and unfilled orders",,65,59,MSONDQ,A0M027,5,5,5,,5,5,,,Mfrs' new orders nondefense capital goods
+,1,,,Stock prices,,66,,FSNCOM,,5,5,5,,5,,,,NYSE Common Stock Price Index: Composite
+1,1,1,Stock market,Stock prices,80,67,60,FSPCOM,S&P 500,5,5,5,5,5,5,,,S&P's Common Stock Price Index: Composite
+1,1,1,Stock market,Stock prices,81,68,61,FSPIN,S&P: INDUST,5,5,5,5,5,5,,,S&P's Common Stock Price Index: Industrials
+,1,,,Stock prices,,69,,FSPCAP,,5,5,5,,5,,,,S&P's Common Stock Price Index: Capital goods
+,1,,,Stock prices,,70,,FSPUT,,5,5,5,,5,,,,S&P's Common Stock Price Index: Utilities
+1,1,1,Stock market,Stock prices,82,71,62,FSDXP,S&P DIV YIELD,2,1,2,2,1,1,,,S&P's Composite Common Stock: Dividend Yield
+1,1,1,Stock market,Stock prices,83,72,63,FSPXE,S&P PE RATIO,5,1,5,5,1,1,,,S&P's Composite Common Stock: Price-Earnings Ratio
+1,,,Stock market,,135,,,,VXOCLSx,1,1,1,1,,,,,VXO
+1,,,Interest and exchange rates,,101,,,,TWEXMMTH,5,5,5,5,,,,,Trade Weighted U.S. Dollar Index: Major Currencies
+1,1,1,Interest and exchange rates,Exchange rates,102,73,64,EXRSW,EXSZUSx,5,5,5,5,5,5,,,Switzerland / U.S. Foreign Exchange Rate
+1,1,1,Interest and exchange rates,Exchange rates,103,74,65,EXRJAN,EXJPUSx,5,5,5,5,5,5,,,Japan / U.S. Foreign Exchange Rate
+1,1,1,Interest and exchange rates,Exchange rates,104,75,66,EXRUK,EXUSUKx,5,5,5,5,5,5,,,U.S. / U.K. Foreign Exchange Rate
+1,1,1,Interest and exchange rates,Exchange rates,105,76,67,EXRCAN,EXCAUSx,5,5,5,5,5,5,,,Canada / U.S. Foreign Exchange Rate
+1,1,1,Interest and exchange rates,Interest rates,84,77,68,FYFF,FEDFUNDS,2,1,2,2,1,1,,,Effective Federal Funds Rate
+1,,,Interest and exchange rates,,85,,,,CP3Mx,2,1,2,2,,,,,3-Month AA Financial Commercial Paper Rate
+1,1,1,Interest and exchange rates,Interest rates,86,78,69,FYGM3,TB3MS,2,1,2,2,1,1,,,3-Month Treasury Bill: Secondary Market Rate
+1,1,1,Interest and exchange rates,Interest rates,87,79,70,FYGM6,TB6MS,2,1,2,2,1,1,,,6-Month Treasury Bill: Secondary Market Rate
+1,1,1,Interest and exchange rates,Interest rates,88,80,71,FYGT1,GS1,2,1,2,2,1,1,,,1-Year Treasury Constant Maturity Rate
+1,1,1,Interest and exchange rates,Interest rates,89,81,72,FYGT5,GS5,2,1,2,2,1,1,,,5-Year Treasury Constant Maturity Rate
+1,1,1,Interest and exchange rates,Interest rates,90,82,73,FYGT10,GS10,2,1,2,2,1,1,,,10-Year Treasury Constant Maturity Rate
+1,1,1,Interest and exchange rates,Interest rates,91,83,74,FYAAAC,AAA,2,1,2,2,1,1,,,Moody's Seasoned Aaa Corporate Bond Yield
+1,1,1,Interest and exchange rates,Interest rates,92,84,75,FYBAAC,BAA,2,1,2,2,1,1,,,Moody's Seasoned Baa Corporate Bond Yield
+1,,,Interest and exchange rates,,93,,,,COMPAPFFx,1,1,1,1,,,,,3-Month Commercial Paper Minus FEDFUNDS
+1,1,1,Interest and exchange rates,Interest rates,94,85,76,SFYGM3,TB3SMFFM,1,1,1,1,1,1,,,3-Month Treasury Bill Minus Federal Funds Rate
+1,1,1,Interest and exchange rates,Interest rates,95,86,77,SFYGM6,TB6SMFFM,1,1,1,1,1,1,,,6-Month Treasury Bill Minus Federal Funds Rate
+1,1,1,Interest and exchange rates,Interest rates,96,87,78,SFYGT1,T1YFFM,1,1,1,1,1,1,,,1-Year Treasury Constant Maturity Minus Federal Funds Rate
+1,1,1,Interest and exchange rates,Interest rates,97,88,79,SFYGT5,T5YFFM,1,1,1,1,1,1,,,5-Year Treasury Constant Maturity Minus Federal Funds Rate
+1,1,1,Interest and exchange rates,Interest rates,98,89,80,SFYGT10,T10YFFM,1,1,1,1,1,1,,,10-Year Treasury Constant Maturity Minus Federal Funds Rate
+1,1,1,Interest and exchange rates,Interest rates,99,90,81,SFYAAAC,AAAFFM,1,1,1,1,1,1,,,Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate
+1,1,1,Interest and exchange rates,Interest rates,100,91,82,SFYBAAC,BAAFFM,1,1,1,1,1,1,,,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate
+1,1,1,Money and credit,Money and credit quantity aggregates,70,92,83,FM1,M1SL,5,5,5,6,5,5,,,M1 Money Stock
+1,1,1,Money and credit,Money and credit quantity aggregates,71,93,84,FM2,M2SL,5,5,5,6,5,5,,,M2 Money Stock
+,1,1,,Money and credit quantity aggregates,,94,85,FM3,M3SL,5,5,5,,5,5,,,M3 Money Stock
+1,1,1,Money and credit,Money and credit quantity aggregates,72,95,86,FM2DQ,M2REAL,5,5,5,5,5,5,,,Real M2 Money Stock
+1,1,1,Money and credit,Money and credit quantity aggregates,73,96,87,FMFBA,AMBSL,5,5,5,6,5,5,,,St. Louis Adjusted Monetary Base
+1,1,1,Money and credit,Money and credit quantity aggregates,74,97,88,FMRRA,TOTRESNS,5,5,5,6,5,5,,,Total Reserves of Depository Institutions
+1,1,1,Money and credit,Money and credit quantity aggregates,75,98,89,FMRNBA,NONBORRES,7,5,7,7,5,5,,,"Reserves of Depository Institutions, Nonborrowed"
+1,1,1,Money and credit,Money and credit quantity aggregates,76,99,90,FCLNQ,BUSLOANS,5,5,5,6,5,5,,,"Commercial and Industrial Loans, All Commercial Banks"
+1,,,Money and credit,,77,,,,REALLN,5,5,5,6,,,,,Real Estate Loans at All Commercial Banks
+,1,,,Money and credit quantity aggregates,,100,,FCLBMC,,1,1,1,,1,,,,Wlky RP LG Com. Banks: net change  com & ind. Loans
+1,1,1,Money and credit,Money and credit quantity aggregates,78,101,91,CCINRV,NONREVSL,5,5,5,6,5,5,,,"Total Nonrevolving Credit Owned and Securitized, Outstanding"
+1,,,Money and credit,,79,,,,CONSPI,2,2,2,2,,,,,Nonrevolving consumer credit to Personal Income
+1,,,Money and credit,,131,,,,MZMSL,5,5,5,6,,,,,MZM Money Stock
+1,,,Money and credit,,132,,,,DTCOLNVHFNM,5,5,5,6,,,,,Consumer Motor Vehicle Loans Outstanding
+1,,,Money and credit,,133,,,,DTCTHFNM,5,5,5,6,,,,,Total Consumer Loans and Leases Outstanding
+1,,,Money and credit,,134,,,,INVEST,5,5,5,6,,,,,Securities in Bank Credit at All Commercial Bank
+1,1,1,Prices,Price Indexes,112,102,92,PMCP,NAPMPRI,1,1,1,1,1,1,,,ISM Manufacturing: Prices Index
+1,1,1,Prices,Price Indexes,106,103,93,PWFSA,WPSFD49207,5,5,5,6,5,5,1,1,PPI: Commodity for Final Demand: Finished Goods
+1,1,1,Prices,Price Indexes,107,104,94,PWFCSA,WPSFD49502,5,5,5,6,5,5,1,1,PPI: Commodity for Final Demand: Finished Consumer Goods
+1,1,1,Prices,Price Indexes,108,105,95,PWIMSA,WPSID61,5,5,5,6,5,5,1,1,PPI: Processed Goods for Intermediate Demand
+1,1,1,Prices,Price Indexes,109,106,96,PWCMSA,WPSID62,5,5,5,6,5,5,1,1,PPI: Unprocessed Goods for Intermediate Demand
+1,,,Prices,,110,,,,OILPRICEx,5,5,5,6,,,,,"Crude Oil, spliced WTI and Cushing"
+1,,,Prices,,111,,,,PPICMM,5,5,5,6,,,,,PPI: Metals and metal products:
+,1,1,,Price Indexes,,107,97,PSM99Q,A0M099,5,5,5,,5,5,1,1,Index of Sensitive Matrerials Prices
+1,1,1,Prices,Price Indexes,113,108,98,PUNEW,CPIAUCSL,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: All Items
+1,1,1,Prices,Price Indexes,114,109,99,PU83,CPIAPPSL,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: Apparel
+1,1,1,Prices,Price Indexes,115,110,100,PU84,CPITRNSL,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: Transportation
+1,1,1,Prices,Price Indexes,116,111,101,PU85,CPIMEDSL,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: Medical care
+1,1,1,Prices,Price Indexes,117,112,102,PUC,CUSR0000SAC,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: Commodities
+1,1,1,Prices,Price Indexes,118,113,103,PUCD,CUSR0000SAD,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: Durables
+1,1,1,Prices,Price Indexes,119,114,104,PUS,CUSR0000SAS,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: Services
+1,1,1,Prices,Price Indexes,120,115,105,PUXF,CPIULFSL,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: All Items Less Food
+1,1,1,Prices,Price Indexes,121,116,106,PUXHS,CUSR0000SA0L2,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: All Items Less Shelter
+1,1,1,Prices,Price Indexes,122,117,107,PUXM,CUSR0000SA0L5,5,5,5,6,5,5,1,1,CPI for All Urban Consumers: All Items Less Medical care
+1,,,Prices,,123,,,,PCEPI,5,5,5,6,,,,,Personal Cons. Expend.: Chain Index
+1,,,Prices,,124,,,,DDURRG3M086SBEA,5,5,5,6,,,,,Personal Cons. Exp: Durable goods
+1,,,Prices,,125,,,,DNDGRG3M086SBEA,5,5,5,6,,,,,Personal Cons. Exp: Nondurable goods
+1,,,Prices,,126,,,,DSERRG3M086SBEA,5,5,5,6,,,,,Personal Cons. Exp: Services
+1,,,Labor market,,127,,,,CES0600000008,5,5,5,6,,,,,Avg Weekly Hours : Goods-Producing
+1,1,1,Labor market,Average hourly earnings,128,118,108,LEHCC,CES2000000008,5,5,5,6,5,5,1,1,Average Hourly Earnings: Construction
+1,1,1,Labor market,Average hourly earnings,129,119,109,LEHM,CES3000000008,5,5,5,6,5,5,1,1,Average Hourly Earnings: Manufacturing
+,1,1,,Miscellaneous,,120,110,HHSNTN,U0M093,1,1,1,,1,1,,,Consumer expectation index (U. OF. MICHIGAN)
