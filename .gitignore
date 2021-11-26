@@ -1,0 +1,16 @@
+.vim
+.vscode
+.ipynb_checkpoints
+_old_
+__pycache__
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
