@@ -1,3 +1,4 @@
+.DS_Store
 .vim
 .vscode
 .ipynb_checkpoints
@@ -14,3 +15,4 @@ __pycache__
 *.snm
 *.synctex.gz
 *.toc
+*.thm
